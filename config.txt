@@ -1,1 +1,1 @@
-editor=vim
+editor=vscode
